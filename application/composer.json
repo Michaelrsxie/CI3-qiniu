@@ -1,0 +1,15 @@
+{
+    "require": {
+        "qiniu/php-sdk": "^7.2"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "classmap-authoritative": true
+    }
+}
